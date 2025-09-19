@@ -1,1 +1,1 @@
-# on-chain-data-authenticator-poc
+This repository contains a Proof of Concept (PoC) for an On-Chain Data Authenticator. The project aims to demonstrate the process of generating and verifying Zero-Knowledge Proofs (ZKPs) for off-chain data, using the Soundness Layer.
